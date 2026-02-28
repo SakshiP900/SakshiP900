@@ -1,59 +1,55 @@
-Hi 👋 I'm Sakshi Paradkar
+# Hi 👋 I'm Sakshi Paradkar
 
-Sakshi Paradkar · she/her
-📧 sakshiparadkar04@gmail.com
+**Sakshi Paradkar** · she/her  
+📧 [Email](mailto:sakshiparadkar04@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-paradkar-350b313a1/)  
+💻 [GitHub](https://github.com/SakshiP900)  
 
-🔗 GitHub: https://github.com/SakshiP900
+**Certified Cloud Computing Professional | AWS | DevOps & Automation Enthusiast | CI/CD**
 
-🔗 LinkedIn: https://www.linkedin.com/in/sakshi-paradkar-350b313a1/
+🚀 Open to DevOps and Cloud Engineering opportunities  
 
-Certified Cloud Computing Professional | AWS | DevOps & Automation Enthusiast | CI/CD
+📍 Location: Navi Mumbai, India  
 
-🚀 Open to DevOps and Cloud Engineering opportunities
+💡 Aspiring to build scalable cloud infrastructure and automate deployments  
 
-📍 Navi Mumbai, India
+🌱 Passionate about learning modern DevOps technologies and building reliable CI/CD pipelines  
 
-💡 Passionate about building scalable cloud infrastructure and automating deployments
+---
 
-🌱 Continuously learning and growing in Cloud & DevOps tech
+## 🛠 Tech Stack & Skills
 
-🛠 Tech Stack & Skills
+| ☁️ Cloud & Platforms | ⚙️ DevOps & CI/CD | 🐳 Containers & Orchestration | 🐧 OS & Scripting | 🌐 Networking |
+|--------------------|-----------------|-------------------------------|-----------------|---------------|
+| AWS (EC2, S3, IAM, VPC, RDS, ALB, Auto Scaling, Route53) | Jenkins | Docker | Linux (RHCE) | CCNA |
+| - | CI/CD Pipelines | Kubernetes | Bash | - |
 
-☁️ Cloud & Platforms
-AWS (EC2, S3, IAM, VPC, RDS, Auto Scaling, ALB, Route53)
+---
 
-⚙️ DevOps & CI/CD
-Jenkins | CI/CD Pipelines | Git
+## 📌 Projects
 
-🐳 Containers & Orchestration
-Docker | Kubernetes
+| Project | Description | Tech Used | Link |
+|--------|------------|-----------|------|
+| **DevOps Project – CI/CD Pipeline** | Automated deployment of Dockerized app on Kubernetes | Jenkins, Docker, Kubernetes, AWS | [GitHub Repo](https://github.com/SakshiP900/Devops_Project1) |
+| **Flask Project – CI/CD Deployment** | Containerized Flask app with CI/CD pipeline on Kubernetes & AWS | Flask, Docker, Kubernetes, Jenkins, AWS EC2, RDS | [GitHub Repo](https://github.com/SakshiP900/Flask-project) |
+| **Cloud Admin Dashboard** | Hosted website with AWS infrastructure | AWS, JavaScript, HTML | [GitHub Repo](https://github.com/SakshiP900/cloud-admin-dashboard) |
 
-🐧 OS & Scripting
-Linux | Bash
+---
 
-🌐 Networking
-CCNA
+## 📊 GitHub Stats
 
-📌 Featured Projects
-1️⃣ CI/CD Pipeline to Deploy Dockerized App on Kubernetes
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiP900&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiP900&layout=compact&theme=radical)
 
-🌟 Automated deployments using Jenkins, Docker, and Kubernetes on AWS.
+---
 
-2️⃣ Flask Project – CI/CD Deployment
+## ⚡ Achievements & Interests
 
-🌟 Containerized a Flask app and deployed via CI/CD pipeline using Kubernetes and AWS.
+- 🌟 RHCE, CCNA, AWS Cloud Computing, DevOps Certification  
+- 🧩 Exploring DevOps tools & writing project case studies  
+- 🎮 Gaming & tech community forums  
+- 🌱 Continuous learning & mentoring  
 
-3️⃣ Cloud Admin Dashboard
+---
 
-🌟 Hosted and managed on AWS.
-
-📊 GitHub Stats
-
-If you want to add live stats, paste this in your README:
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiP900&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiP900&layout=compact)
-
-⚡ "Automate. Deploy. Scale."
-
-🌱 Always learning new tools and best practices in DevOps
+> ⚡ *"Automate. Deploy. Scale."*
