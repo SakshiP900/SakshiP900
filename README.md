@@ -1,9 +1,7 @@
 # Hi 👋 I'm Sakshi Paradkar
 
 **Sakshi Paradkar** · she/her  
-📧 [Email](mailto:sakshiparadkar04@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-paradkar-350b313a1/)  
-💻 [GitHub](https://github.com/SakshiP900)  
+📧 [Email](mailto:sakshiparadkar04@gmail.com)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-paradkar-350b313a1/)  | 💻 [GitHub](https://github.com/SakshiP900)  
 
 **Certified Cloud Computing Professional | AWS | DevOps & Automation Enthusiast | CI/CD**
 
@@ -21,7 +19,7 @@
 
 | ☁️ Cloud & Platforms | ⚙️ DevOps & CI/CD | 🐳 Containers & Orchestration | 🐧 OS & Scripting | 🌐 Networking |
 |--------------------|-----------------|-------------------------------|-----------------|---------------|
-| AWS (EC2, S3, IAM, VPC, RDS, ALB, Auto Scaling, Route53) | Jenkins | Docker | Linux (RHCE) | CCNA |
+| AWS (EC2, S3, IAM, VPC, RDS, ALB, Auto Scaling, Lambda, SQS, Route53) | Jenkins | Docker | Linux (RHCE) | CCNA |
 | - | CI/CD Pipelines | Kubernetes | Bash | - |
 
 ---
@@ -32,14 +30,7 @@
 |--------|------------|-----------|------|
 | **DevOps Project – CI/CD Pipeline** | Automated deployment of Dockerized app on Kubernetes | Jenkins, Docker, Kubernetes, AWS | [GitHub Repo](https://github.com/SakshiP900/Devops_Project1) |
 | **Flask Project – CI/CD Deployment** | Containerized Flask app with CI/CD pipeline on Kubernetes & AWS | Flask, Docker, Kubernetes, Jenkins, AWS EC2, RDS | [GitHub Repo](https://github.com/SakshiP900/Flask-project) |
-| **Cloud Admin Dashboard** | Hosted website with AWS infrastructure | AWS, JavaScript, HTML | [GitHub Repo](https://github.com/SakshiP900/cloud-admin-dashboard) |
-
----
-
-## 📊 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiP900&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiP900&layout=compact&theme=radical)
+| **Cloud Admin Dashboard** | Hosted Scalable web Application with Load Balance on AWS | AWS, JavaScript, HTML, AWS EC2, Amazon RDS, MySQL, Bash Scripting, Nginx, PM2, Auto Scaling Groups, Application Load Balancer | [GitHub Repo](https://github.com/SakshiP900/cloud-admin-dashboard) |
 
 ---
 
