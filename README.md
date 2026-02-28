@@ -38,7 +38,7 @@
 
 - 🌟 RHCE, CCNA, AWS Cloud Computing, DevOps Certification  
 - 🧩 Exploring DevOps tools & writing project case studies  
-- 🎮 Gaming & tech community forums  
+- 🎮 tech community forums  
 - 🌱 Continuous learning & mentoring  
 
 ---
