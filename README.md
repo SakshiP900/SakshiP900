@@ -36,10 +36,9 @@
 
 ## ⚡ Achievements & Interests
 
-- 🌟 RHCE, CCNA, AWS Cloud Computing, DevOps Certification  
-- 🧩 Exploring DevOps tools & writing project case studies  
-- 🎮 tech community forums  
-- 🌱 Continuous learning & mentoring  
+- 🌟 RHCE, CCNA, AWS Solution Architect, DevOps Certification  
+- 🧩 Exploring DevOps tools & cloud automation
+- 🌱 Continuous learning & Improving
 
 ---
 
