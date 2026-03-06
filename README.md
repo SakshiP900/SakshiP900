@@ -39,7 +39,7 @@
 
 ### 🌟 Certifications & Achievements
 * **RHCE** – Red Hat Certified Engineer
-* **AWS Solutions Architect**
+* **AWS Solution Architect**
 * **CCNA** – Cisco Certified Network Associate
 * **Certified DevOps Professional**
 
