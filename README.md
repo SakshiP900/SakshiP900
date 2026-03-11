@@ -17,7 +17,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud Platforms** | **AWS** (EC2, S3, IAM, VPC, RDS, DynamoDB, EFS,EBS, ALB, Auto Scaling, Lambda, SQS, Route53) |
+| **Cloud Platforms** | **AWS** (EC2, S3, IAM, VPC, RDS, DynamoDB, EFS, EBS, ALB, Auto Scaling, Lambda, SQS, Route53, CloudWatch) |
 | **DevOps & CI/CD** | Jenkins, CI/CD Pipeline Design, Automation Workflows |
 | **Containers** | Docker, Kubernetes (Orchestration & Deployment) |
 | **OS & Scripting** | Linux (RHCE Certified), Bash Scripting |
