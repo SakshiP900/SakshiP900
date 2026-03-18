@@ -38,10 +38,10 @@
 ---
 
 ### 🌟 Certifications & Achievements
-* **RHCE** – Red Hat Certified Engineer
-* **AWS Solution Architect**
-* **CCNA** – Cisco Certified Network Associate
-* **Certified DevOps Professional**
+* **RHCE** – Red Hat Certified Engineer | NetTech India | 2025
+* **AWS Solution Architect** | NetTech India | 2025
+* **CCNA** – Cisco Certified Network Associate | NetTech India | 2025
+* **Certified DevOps Professional** | NetTech India | 2026
 
 ---
 
