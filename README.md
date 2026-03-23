@@ -1,6 +1,6 @@
 # Hi there, I'm Sakshi Paradkar 👋
 
-**Certified DevOps & Cloud Professional** *Enabling faster and reliable software delivery through Automation and Infrastructure as Code.*
+**Certified DevOps & Cloud Professional** *Enabling faster and reliable software delivery through Automation.*
 
 ---
 
