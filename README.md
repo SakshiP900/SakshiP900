@@ -17,7 +17,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud Platforms** | **AWS** (EC2, S3, IAM, VPC, RDS, DynamoDB, EFS, EBS, ALB, Auto Scaling, Lambda, SQS, Route53, CloudWatch) |
+| **Cloud Platforms** | **AWS** (EC2, S3, IAM, VPC, RDS, DynamoDB, ASG, ELB, EFS, EBS, ALB, Auto Scaling, Lambda, SQS, Route53, CloudWatch) |
 | **DevOps & CI/CD** | Jenkins, CI/CD Pipeline Design, Automation Workflows |
 | **Containers** | Docker, Kubernetes (Orchestration & Deployment) |
 | **OS & Scripting** | Linux (RHCE Certified), Bash Scripting |
@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[DevOps CI/CD Pipeline](https://github.com/SakshiP900/Devops_Project1)** | End-to-end automation for deploying Dockerized applications onto Kubernetes clusters. | Jenkins, Docker, K8s, AWS |
+| **[DevOps CI/CD Pipeline](https://github.com/SakshiP900/Devops_Project1)** | End-to-end automation for deploying Dockerized applications onto Kubernetes clusters. | Java, Jenkins, Docker, AWS |
 | **[Cloud Admin Dashboard](https://github.com/SakshiP900/cloud-admin-dashboard)** | High-availability architecture utilizing Load Balancers and Auto-Scaling for a scalable web app. | AWS, Nginx, PM2, MySQL |
 | **[Flask K8s Deployment](https://github.com/SakshiP900/Flask-project)** | Containerized Flask app integrated with a Jenkins-based CI/CD pipeline on AWS EC2 & RDS. | Python, Flask, Docker, K8s, AWS |
 | **[Student Management](https://github.com/SakshiP900/StudentManagementWeb)** | Web application designed for student data management and database integration. | PHP, MySQL, HTML, Jenkins, AWS, Docker, K8s |
