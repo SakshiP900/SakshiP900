@@ -33,7 +33,7 @@
 | **[Cloud Admin Dashboard](https://github.com/SakshiP900/cloud-admin-dashboard)** | High-availability architecture utilizing Load Balancers and Auto-Scaling for a scalable web app. | AWS, Nginx, PM2, MySQL |
 | **[Flask K8s Deployment](https://github.com/SakshiP900/Flask-project)** | Containerized Flask app integrated with a Jenkins-based CI/CD pipeline on AWS EC2 & RDS. | Python, Flask, Docker, K8s, AWS |
 | **[Student Management](https://github.com/SakshiP900/StudentManagementWeb)** | Web application designed for student data management and database integration. | PHP, MySQL, HTML, Jenkins, AWS, Docker, K8s |
-| **[Todo-List App](https://github.com/SakshiP900/Todo-list)** | Maven-based Java application focusing on clean code and deployment readiness. | Java, Maven, HTML |
+| **[Todo-List App](https://github.com/SakshiP900/Todo-list)** | Maven-based Java application focusing on clean code and deployment readiness. | Java, Maven, HTML, Jenkins, Docker |
 
 ---
 
