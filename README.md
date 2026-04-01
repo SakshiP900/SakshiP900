@@ -7,7 +7,7 @@
 ### 📬 Let's Connect
 [📧 Email](mailto:sakshiparadkar04@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/sakshi-paradkar-350b313a1/) | [💻 GitHub](https://github.com/SakshiP900)
 
-- **📍 Location:** Navi Mumbai, India
+- **📍 Location:** India
 - **🚀 Status:** Open to DevOps & Cloud Engineering opportunities
 - **💡 Mission:** To build self-healing, scalable cloud infrastructures and eliminate manual bottlenecks.
 
